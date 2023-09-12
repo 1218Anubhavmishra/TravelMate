@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Travel mate</string>
+    <string name="logout">Logout</string>
+    <string name="about_us">About us</string>
+    <string name="other">Other</string>
+    <string name="category">Category</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+</resources>
